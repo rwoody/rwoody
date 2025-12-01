@@ -4,15 +4,18 @@
 
 ## About Me
 
-Senior Software Engineer specializing in full-stack development with TypeScript, Node.js, Python, and modern frameworks. Expert in building enterprise-scale applications with React, Angular, and cloud-native architectures. Passionate about AI-assisted development and building practical developer tools.
+Senior Software Engineer specializing in full-stack development with TypeScript, Node.js, Python, and modern frameworks. Expert in building enterprise-scale applications with React, Next.js, Angular, and cloud-native architectures. Extensive experience with Python for backend services, data processing, and AI/ML workflows. Passionate about AI-assisted development and building practical developer tools.
 
 ## Core Expertise
 
-- **Full-Stack Development**: TypeScript, Node.js, Python, React, Angular, Vue.js
-- **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD
-- **AI & Automation**: AI-assisted development, local LLM integration, workflow automation
+- **Full-Stack Development**: TypeScript, Node.js, Python, React, Next.js, Angular, Vue.js
+- **Backend & APIs**: Node.js/Express, Python (FastAPI, Django), .NET Core, REST/GraphQL APIs
+- **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, Docker, Terraform, CI/CD pipelines
+- **Python Specialization**: Backend services, data processing, ETL pipelines, AI/ML workflows, automation scripts
+- **Modern Frontend**: React ecosystem (Next.js, SSR, PWAs), Angular, state management (Redux, Zustand)
+- **AI & Automation**: AI-assisted development, local LLM integration, RAG workflows, agent architectures
 - **Mobile & Desktop**: React Native, Flutter, Tauri
-- **Architecture**: Microservices, serverless, event-driven systems, distributed architectures
+- **Architecture**: Microservices, serverless, event-driven systems, distributed systems
 
 ## Technical Skills
 
@@ -21,10 +24,29 @@ Senior Software Engineer specializing in full-stack development with TypeScript,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### Mobile & Desktop
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
