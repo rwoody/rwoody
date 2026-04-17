@@ -2,9 +2,11 @@
 
 **Senior Software Engineer** | 15+ Years Experience | Texas
 
+> 🟢 Open to new opportunities — seeking **Frontend**, **Full-Stack**, or **Backend** engineering roles.
+
 ## About Me
 
-Senior Software Engineer specializing in full-stack development with TypeScript, Node.js, Python, and modern frameworks. Expert in building enterprise-scale applications with React, Next.js, Angular, and cloud-native architectures. Extensive experience with Python for backend services, data processing, and AI/ML workflows. Passionate about AI-assisted development and building practical developer tools.
+Senior Software Engineer specializing in full-stack development with TypeScript, Node.js, Python, and modern frameworks. Expert in building enterprise-scale applications with React, Next.js, Angular, and cloud-native architectures. Extensive experience with Python for backend services, data processing, and AI/ML workflows. Strong critical thinker and debugger with a knack for diagnosing complex problems quickly. Incredibly productive at leveraging AI agents to accelerate development and automate workflows.
 
 ## Core Expertise
 
@@ -14,7 +16,7 @@ Senior Software Engineer specializing in full-stack development with TypeScript,
 - **Python Specialization**: FastAPI/Pydantic, backend services, data processing, ETL pipelines, AI/ML workflows, automation scripts
 - **Modern Frontend**: React ecosystem (Next.js, SSR, PWAs), Angular, state management (Redux, Zustand)
 - **AI & Automation**: AI-assisted development, OpenAI APIs, local LLM integration, RAG workflows, agent architectures
-- **Mobile & Desktop**: React Native, Flutter, NativeScript, Cordova, Tauri
+- **Mobile & Desktop**: React Native, NativeScript, Cordova, Tauri
 - **Architecture**: Microservices, serverless, event-driven systems, distributed systems
 
 ## Technical Skills
@@ -50,7 +52,6 @@ Senior Software Engineer specializing in full-stack development with TypeScript,
 
 ### Mobile & Desktop
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=flat&logo=nativescript&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
@@ -80,13 +81,6 @@ Senior Software Engineer specializing in full-stack development with TypeScript,
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-0066FF?style=flat&logoColor=white)
 
-## Featured Projects
-
-### [flutter-the-hidden-ui](https://github.com/rwoody/flutter-the-hidden-ui)
-Cross-platform Flutter application exploring UI patterns for user preferences and settings. Built in a single day to demonstrate rapid development capabilities across iOS, Android, Web, and Desktop platforms.
-
-**Tech:** Flutter, Dart, Material Design 3
-
 ## What I'm Building
 
 Currently exploring AI-powered developer tools and workflow automation using:
@@ -101,10 +95,6 @@ Currently exploring AI-powered developer tools and workflow automation using:
 - Cross-platform application development
 - Cloud-native architecture and DevOps practices
 - Building practical tools that solve real problems
-
-## GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwoody&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false)
 
 ---
 
